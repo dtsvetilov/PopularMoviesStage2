@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--TODO: Set Your API Key Here-->
-    <string name="tmdb_api_key">f9829bd558cfed5613a4d057c34677ce</string>
+    <string name="tmdb_api_key"></string>
 </resources>
